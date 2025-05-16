@@ -22,12 +22,4 @@ Objectif : appliquer un pipeline de classification sur des données socio-écono
 
 ## 📁 Fichiers importants
 - `notebooks/Stage_BurkinaFaso_Dataset_et_Classification.ipynb`
-- `src/` : fonctions de preprocessing, modélisation (à modulariser)
-- `requirements.txt`
-
-## 📌 Résultats clés
-- Accuracy : XX%
-- Feature importante : `revenu_mensuel`, `situation_matrimoniale`, etc.
-- Meilleur modèle : RandomForest avec tuning (GridSearchCV)
-
 ---
